@@ -1,6 +1,4 @@
-package array;
-
-import java.util.ArrayList;
+package collection.array;
 
 public class Main3 {
     public static void main(String[] args) {
