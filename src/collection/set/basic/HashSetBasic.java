@@ -1,4 +1,4 @@
-package collection.set;
+package collection.set.basic;
 
 import java.util.Arrays;
 
