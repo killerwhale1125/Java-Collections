@@ -1,5 +1,7 @@
 package collection.list;
 
+import java.util.Objects;
+
 public class MyLinkedList<E> implements MyList<E> {
     private Node<E> first;
     private int size = 0;
